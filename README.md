@@ -1,4 +1,9 @@
-<h1 align="center">Olá, me chamo Lucas Chaves</h1>
+<h1 align="center">Olá, me chamo Lucas Chaves 👋</h1>
+
+<p align="center">
+  Desenvolvedor Full Stack focado em aplicações web, APIs e automações.<br/>
+  Trabalho com JavaScript, TypeScript, Node.js, NestJS e Next.js.
+</p>
 <hr/>
 <div align="center">
   <a href=''>
